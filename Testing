@@ -1,0 +1,7 @@
+x = 10
+def amit():
+    x = 2
+
+    amit()
+print(x)
+
