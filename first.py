@@ -13,3 +13,9 @@ x, y, z = fruit
 print(x)
 print(y)
 print(z)
+
+#print type
+x = 5
+y = "john"
+
+print(type(x))
