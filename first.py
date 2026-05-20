@@ -19,3 +19,7 @@ x = 5
 y = "john"
 
 print(type(x))
+
+#random number
+import random
+print(random.randrange(1,10))
