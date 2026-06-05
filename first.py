@@ -42,6 +42,15 @@ print(d.replace("H", "J"))
 e = "Hello World"
 print(e.split(" "))
 
+#string formatting
 age = 36
 x = f"I am {age} years old"
 print(x)
+
+#python Boolean
+def myFunction() :
+    return True
+if myFunction() :
+    print("Yes")
+else:
+    print("No")    
